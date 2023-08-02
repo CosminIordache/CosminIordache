@@ -9,4 +9,9 @@
   <li>📚 Learning AI and Big Data</li>
 </ul>
 
+## *Skills
+
+
+
+
 
