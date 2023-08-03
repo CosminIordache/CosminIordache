@@ -24,11 +24,8 @@
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### GitHub Stats
-
-<tr>
-  <td>![](https://github-readme-stats.vercel.app/api?username=CosminIordache&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)</td>
-  <td>![](https://github-readme-stats.vercel.app/api/top-langs/?username=CosminIordache&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</td>
-</tr>
+![](https://github-readme-stats.vercel.app/api?username=CosminIordache&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CosminIordache&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🧠 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
