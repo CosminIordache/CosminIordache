@@ -2,14 +2,14 @@
   <h1 align="center">Hi, I'm Cosmin 👋</h1>
 </div>
 
-## *About me
+## 🙋‍♂️ About me
 <ul>
-  <li>🙋‍♂️ 21</li>
+  <li>👱‍♂️ 21</li>
   <li>📱 Junior Android developer</li>
   <li>📚 Learning AI and Big Data</li>
 </ul>
 
-## *Socials
+## 🤝 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cosmin-ionut-iordache-62641b26a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/cosminiordachee)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
