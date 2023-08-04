@@ -36,7 +36,7 @@
 ### 🔥 Streak Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CosminIordache&theme=prussian&hide_border=false)
 
-## 🧠 Random Dev Quote
+## 🧠 Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
