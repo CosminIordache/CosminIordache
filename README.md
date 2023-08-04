@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm Cosmin 👋</h1>
 </div>
 
-<img src="![Banner](https://github.com/CosminIordache/CosminIordache/assets/91089499/d4ea7bee-43ed-4ed7-ab34-a07083b7baf1)">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/91089499/258456905-d4ea7bee-43ed-4ed7-ab34-a07083b7baf1.png">
 
 
 ## 🙋‍♂️ About me
