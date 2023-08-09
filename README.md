@@ -27,7 +27,8 @@
 ### 👨🏻‍💻 Softwares and Tools
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)
 ![ANDROID-STUDIO](https://img.shields.io/badge/Android_Studio-%2320232a.svg?style=for-the-badge&logo=android-studio&logoColor=%a4c639) 
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff) 
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-%2320232a.svg?style=for-the-badge&logo=intellijidea&logoColor=%a4c639)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
