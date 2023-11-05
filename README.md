@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About me
 <ul>
   <li>👱‍♂️ 21</li>
-  <li>📱 Junior Android developer</li>
+  <li>📱 Junior software developer</li>
   <li>📚 Learning AI and Big Data</li>
 </ul>
 
