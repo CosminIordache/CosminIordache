@@ -30,17 +30,6 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=CosminIordache&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CosminIordache&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔥 Streak Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=CosminIordache&theme=prussian&hide_border=false)
-
-## 🧠 Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
 
 
 
