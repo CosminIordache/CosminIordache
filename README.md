@@ -2,8 +2,6 @@
   <h1 align="center">Hi, I'm Cosmin 👋</h1>
 </div>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/91089499/258460167-d6574a4c-b403-4ab5-a15a-0b113f1bfa2b.png">
-
 ## 🙋‍♂️ About me
 <ul>
   <li>👱‍♂️ 21</li>
