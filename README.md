@@ -6,7 +6,7 @@
 <ul>
   <li>👱‍♂️ 21</li>
   <li>📱 Junior software developer</li>
-  <li>📚 Learning AI and Big Data</li>
+  <li>📚 Learning AI & Big Data</li>
 </ul>
 
 ## 🤝 Socials
