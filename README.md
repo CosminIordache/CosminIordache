@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About me
 <ul>
-  <li>👱‍♂️ 21</li>
+  <li>👱‍♂️ 22</li>
   <li>📱 Software Developer</li>
   <li>📚 Learning AI & Big Data</li>
 </ul>
