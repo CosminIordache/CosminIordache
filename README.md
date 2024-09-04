@@ -6,7 +6,7 @@
 <ul>
   <li>👱‍♂️ 22</li>
   <li>📱 Software Developer</li>
-  <li>📚 Learning AI & Big Data</li>
+  <li>📚 AI Developer & Big Data Analist</li>
 </ul>
 
 ## 🤝 Socials
