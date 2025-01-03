@@ -4,8 +4,7 @@
 
 ## 🙋‍♂️ About me
 <ul>
-  <li>👱‍♂️ 22</li>
-  <li>📱 Software Developer</li>
+  <li>📱 Full Stack Developer</li>
   <li>📚 AI Developer & Big Data Analist</li>
 </ul>
 
